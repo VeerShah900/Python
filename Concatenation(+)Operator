@@ -1,0 +1,6 @@
+a = "Hellow"
+b = "World"
+c = "I am Veer"
+d = a + b + c
+# Making 3 words into a single line by + which is not an arithematic operator here
+print(d)
