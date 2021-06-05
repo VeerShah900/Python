@@ -1,0 +1,4 @@
+a = "Veer"
+print(type(a))
+b = 21
+print(type(b))
