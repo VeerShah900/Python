@@ -1,0 +1,6 @@
+a = "Veer"
+#a is a string
+print(a)
+b = 30
+#b is a integer
+print(b)
