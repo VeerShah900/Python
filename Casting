@@ -1,0 +1,4 @@
+p = float(30)  
+# z will be 30.0
+q = int(10)
+# q will be 10
