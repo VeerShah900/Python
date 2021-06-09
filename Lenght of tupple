@@ -1,0 +1,3 @@
+#first lets create a tuple
+state = ("goa" , "maharashtra" , "sikim" , "bihar")
+print(len(state))#Solution is 4
