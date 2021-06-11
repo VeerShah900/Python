@@ -1,0 +1,7 @@
+firstdict = {
+  "colour": "Red",
+  "shape": "Circle",
+  "Veer": "Programmer",
+  "int": 2912
+}
+print(firstdict)
