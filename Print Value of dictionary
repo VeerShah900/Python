@@ -1,0 +1,6 @@
+dicta = {
+  "hi": "hello",
+  "tata": "bye",
+  "age": 34
+}
+print(dicta["hi"])
